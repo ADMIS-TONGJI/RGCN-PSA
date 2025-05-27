@@ -24,7 +24,7 @@ Department of Computer Science and Technology, Tongji University, China; Departm
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/paper-code.git
+git clone https://github.com/ADMIS-TONGJI/RGCN-PSA.git
 
 # Install dependencies
 pip install -r requirements.txt
